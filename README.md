@@ -14,9 +14,11 @@ I always enjoy learning learning new things, so i made it a habbit to learn some
 - [Pentium](https://en.wikipedia.org/wiki/Pentium) processor name orign comes from pent as the 5th arch, Ium as the ending of the checmical elements.
 - [Packet switching](https://en.wikipedia.org/wiki/Packet_switching) vs [circuit switching](https://en.wikipedia.org/wiki/Circuit_switching)
 
-## Programming
+## Development & Coding
 - ```===``` [Strict equality operator in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators)
 - Synchronous Singleton Optimization using two if conditions one is synchronous and one is not to avoid the locking performance hit.
+- [Gradle build system](https://gradle.org/)
+- [Groovy language](http://groovy-lang.org/) a fun scripting jvm language, good option for writing DSLs e.g. gradle build scripts.
 
 
 ## Uncategorized dump of the remaining things.
@@ -70,8 +72,6 @@ Females are less conspicuous.
 Gaussian curvature:
 Curvature gives strength.
 hyperboloid shape is better than regular cylindrical chimneys because its curved in both direction 
-
-Gradle build system.
 
 Hens vs chickens
 
