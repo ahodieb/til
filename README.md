@@ -6,6 +6,7 @@ I always enjoy learning learning new things, so i made it a habbit to learn some
 - Tuning forks are used to tune pianos. [Wikipedia](https://en.wikipedia.org/wiki/Tuning_fork#Uses)
 - Tuning forks are a building block of the quartz crystal powering watches. [Wikipedia](https://en.wikipedia.org/wiki/Tuning_fork#Uses)
 - 1st of jan wasn't always the first day in the year.  It was different in alot of countries, e.g. Russia.
+- How regular locks work [gif](https://giphy.com/gifs/interesting-around-explain-OTnDHCCFNZHwc)
 
 ## Science
 - Low level infinity, Infinitely countable. [The infinite hotel paradigm](https://www.youtube.com/watch?v=Uj3_KqkI9Zo)
