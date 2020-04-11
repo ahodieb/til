@@ -19,7 +19,8 @@ I always enjoy learning learning new things, so i made it a habbit to learn some
 - Synchronous Singleton Optimization using two if conditions one is synchronous and one is not to avoid the locking performance hit.
 - [Gradle build system](https://gradle.org/)
 - [Groovy language](http://groovy-lang.org/) a fun scripting jvm language, good option for writing DSLs e.g. gradle build scripts.
-
+- [MsgPack](https://msgpack.org/index.html) It's like JSON but fast and small.
+- `mokcito.verify()` is implicittly equivlent to `mokcito.verify(times(1))` [docs](https://javadoc.io/static/org.mockito/mockito-core/3.3.3/org/mockito/Mockito.html#4)
 
 ## Uncategorized dump of the remaining things.
 ```
@@ -79,8 +80,6 @@ Microsoft uses a multi layered approach for it's AVhttps://blogs.technet.microso
 
 Go is type oriented, struct != class. so you can define methods to types.
 https://twitter.com/rob_pike/status/942528032887029760
-
-Msgpack, Go while learning how AAAGo works
 
 rlwrap
 mokcito.verify(times(1)) is implicit
