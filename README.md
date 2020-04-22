@@ -22,6 +22,8 @@ I always enjoy learning learning new things, so i made it a habbit to learn some
 - [Groovy language](http://groovy-lang.org/) a fun scripting jvm language, good option for writing DSLs e.g. gradle build scripts.
 - [MsgPack](https://msgpack.org/index.html) It's like JSON but fast and small.
 - `mokcito.verify()` is implicittly equivlent to `mokcito.verify(times(1))` [docs](https://javadoc.io/static/org.mockito/mockito-core/3.3.3/org/mockito/Mockito.html#4)
+### Javascript 
+- [What the heck is the event loop](https://youtu.be/8aGhZQkoFbQ)
 
 ## Uncategorized dump of the remaining things.
 ```
