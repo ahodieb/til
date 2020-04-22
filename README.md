@@ -23,6 +23,7 @@ I always enjoy learning learning new things, so i made it a habbit to learn some
 - [MsgPack](https://msgpack.org/index.html) It's like JSON but fast and small.
 - `mokcito.verify()` is implicittly equivlent to `mokcito.verify(times(1))` [docs](https://javadoc.io/static/org.mockito/mockito-core/3.3.3/org/mockito/Mockito.html#4)
 ### Javascript 
+- [In the loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 - [What the heck is the event loop](https://youtu.be/8aGhZQkoFbQ)
 
 ## Uncategorized dump of the remaining things.
