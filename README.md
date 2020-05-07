@@ -22,6 +22,13 @@ I always enjoy learning learning new things, so i made it a habbit to learn some
 - [Groovy language](http://groovy-lang.org/) a fun scripting jvm language, good option for writing DSLs e.g. gradle build scripts.
 - [MsgPack](https://msgpack.org/index.html) It's like JSON but fast and small.
 - `mokcito.verify()` is implicittly equivlent to `mokcito.verify(times(1))` [docs](https://javadoc.io/static/org.mockito/mockito-core/3.3.3/org/mockito/Mockito.html#4)
+
+### Python 
+- **[Print method](https://realpython.com/lessons/basic-usage-and-string-literals/)** \
+  - I knew most of it, but it had surprising small useful nuggets.
+  - Didn't know about end=, that makes animation on the terminal possible (using sequences of '\r')
+  - Mocking [print in unit tests](https://realpython.com/lessons/mocking-print-unit-tests/).
+  
 ### Javascript 
 - **The Event loop**
   - [In the loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0) (the best i've seen so far
