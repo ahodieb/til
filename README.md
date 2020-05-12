@@ -34,6 +34,11 @@ I always enjoy learning learning new things, so i made it a habbit to learn some
   - [In the loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0) (the best i've seen so far
   - [What the heck is the event loop](https://youtu.be/8aGhZQkoFbQ) (very simple and doesn't add much)
   - [requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
+ 
+- **react-dnd**
+  - [Exploring react-dnd](https://www.youtube.com/watch?v=NW8erkUgqus&t=4s)
+  - Context
+  - Providers
 
 ## Uncategorized dump of the remaining things.
 ```
