@@ -23,6 +23,9 @@ I always enjoy learning learning new things, so i made it a habbit to learn some
 - [MsgPack](https://msgpack.org/index.html) It's like JSON but fast and small.
 - `mokcito.verify()` is implicittly equivlent to `mokcito.verify(times(1))` [docs](https://javadoc.io/static/org.mockito/mockito-core/3.3.3/org/mockito/Mockito.html#4)
 
+- [Why software architects fail](https://youtu.be/AkYDsiRVqno)
+  - Has very relatable engineering falacies that i deal with daily, i've done all those wrong things at some point :D
+
 ### Python 
 - **[Print method](https://realpython.com/lessons/basic-usage-and-string-literals/)** \
   - I knew most of it, but it had surprising small useful nuggets.
