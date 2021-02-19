@@ -27,10 +27,21 @@ I always enjoy learning learning new things, so i made it a habbit to learn some
   - Has very relatable engineering falacies that i deal with daily, i've done all those wrong things at some point :D
 
 ### Python 
-- **[Print method](https://realpython.com/lessons/basic-usage-and-string-literals/)** \
+- **[Print method](https://realpython.com/lessons/basic-usage-and-string-literals/)** 
   - I knew most of it, but it had surprising small useful nuggets.
   - Didn't know about end=, that makes animation on the terminal possible (using sequences of '\r')
   - Mocking [print in unit tests](https://realpython.com/lessons/mocking-print-unit-tests/).
+- **map** can take multiple iteratiors as extra parameters
+  -  It passes 1 element for each iterator to to the function, similar to `zip`
+  -  Example: `map(f, a1, a2, a3)  is equevelant to map(f, zip(a1, a2, a3)) #f in the zip case takes a tuple as a parameter`
+  -  Also similar to zip if the arrays are of different length, the elements in the longer arrays are ignored from the combined operation
+  -  Example
+     ```python
+     a1 = [1, 1, 1, 1]
+     a2 = [1, 1, ,1]
+     a3 = [1, 1]
+     list(map(lambda a,b,c: a+b+c, a1, a2,a3)) =>  [3 , 3]
+     ```
   
 ### Javascript 
 - **The Event loop**
