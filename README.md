@@ -14,6 +14,7 @@ I always enjoy learning learning new things, so i made it a habbit to learn some
 ## Tech
 - [Pentium](https://en.wikipedia.org/wiki/Pentium) processor name orign comes from pent as the 5th arch, Ium as the ending of the checmical elements.
 - [Packet switching](https://en.wikipedia.org/wiki/Packet_switching) vs [circuit switching](https://en.wikipedia.org/wiki/Circuit_switching)
+- [The Open Graph protocol](https://ogp.me/)
 
 ## Development & Coding
 - ```===``` [Strict equality operator in javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators)
