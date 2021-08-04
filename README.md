@@ -26,6 +26,7 @@ I always enjoy learning learning new things, so i made it a habbit to learn some
 
 - [Why software architects fail](https://youtu.be/AkYDsiRVqno)
   - Has very relatable engineering falacies that i deal with daily, i've done all those wrong things at some point :D
+- [Conventional comments spec](https://conventionalcomments.org/) - I've been doing some version of this for the past two years, glad there is a "spec" :D 
 
 ### Python 
 - **[Print method](https://realpython.com/lessons/basic-usage-and-string-literals/)** 
